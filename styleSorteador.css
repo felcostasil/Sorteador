@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    background-color: rgb(182, 223, 77);
+    color: rgb(35, 91, 134);
+    border-radius: 5px;
+    text-align: center;
+    font-style: italic;
+    font-size: 23px; 
+}
+
+body{
+    text-align: center;
+}
+
+#sorteio{
+    background-color: rgb(190, 186, 180);
+    border-radius: 7px;
+}
+
+#title_sorteio{
+    background-color: rgb(165, 162, 162);
+    font-size: 22px;
+}
+
+form{
+    padding-top: 15px;
+    font-size: 20px;
+}
+
+input{
+    font-size: 18px;
+}
